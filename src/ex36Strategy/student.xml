@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE student SYSTEM "student.dtd">
+	<student lastname="Zimareva">
+		<subject title="Паттерны проектирования" mark="5" />
+		<subject title="Мобильная разработка" mark="5"/>
+		<subject title="Методы поддержки требований к ПО" mark="4"/>
+		<average>4.3</average>
+	</student>
